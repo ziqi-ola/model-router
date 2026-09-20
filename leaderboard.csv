@@ -1,0 +1,30 @@
+model_id,model_name,provider,effort,intelligence_index,cost_per_task_usd,median_tokens_per_second
+claude-opus,Claude Opus 5,Anthropic,low,39,1.10,56
+claude-opus,Claude Opus 5,Anthropic,medium,45,2.19,55
+claude-opus,Claude Opus 5,Anthropic,high,48,3.61,54
+claude-opus,Claude Opus 5,Anthropic,xhigh,50,4.88,54
+claude-opus,Claude Opus 5,Anthropic,max,51,5.86,55
+claude-sonnet,Claude Sonnet 5,Anthropic,low,24,0.51,59
+claude-sonnet,Claude Sonnet 5,Anthropic,medium,28,1.00,63
+claude-sonnet,Claude Sonnet 5,Anthropic,high,32,1.79,65
+claude-sonnet,Claude Sonnet 5,Anthropic,xhigh,34,2.87,70
+claude-sonnet,Claude Sonnet 5,Anthropic,max,38,5.09,72
+claude-haiku,Claude 4.5 Haiku,Anthropic,non-reasoning,15,,86
+gpt-sol,GPT-5.6 Sol,OpenAI,low,33,0.26,65
+gpt-sol,GPT-5.6 Sol,OpenAI,medium,39,0.50,60
+gpt-sol,GPT-5.6 Sol,OpenAI,high,42,0.81,63
+gpt-sol,GPT-5.6 Sol,OpenAI,xhigh,44,1.18,65
+gpt-sol,GPT-5.6 Sol,OpenAI,max,47,1.99,61
+gpt-terra,GPT-5.6 Terra,OpenAI,low,27,0.14,79
+gpt-terra,GPT-5.6 Terra,OpenAI,medium,30,0.18,84
+gpt-terra,GPT-5.6 Terra,OpenAI,high,34,0.34,89
+gpt-terra,GPT-5.6 Terra,OpenAI,xhigh,38,0.63,81
+gpt-terra,GPT-5.6 Terra,OpenAI,max,42,1.40,89
+gpt-luna,GPT-5.6 Luna,OpenAI,low,21,0.01,135
+gpt-luna,GPT-5.6 Luna,OpenAI,medium,25,0.02,136
+gpt-luna,GPT-5.6 Luna,OpenAI,high,32,0.04,140
+gpt-luna,GPT-5.6 Luna,OpenAI,xhigh,35,0.09,143
+gpt-luna,GPT-5.6 Luna,OpenAI,max,37,0.18,162
+gemini-3.8-flash,Gemini 3.8 Flash,Google,high,41,1.24,305
+glm-5.3-flash,GLM-5.3-Flash,Z AI,default,42,0.25,95
+deepseek-4.1-flash,DeepSeek V4.1 Flash,DeepSeek,max,39,0.27,207
